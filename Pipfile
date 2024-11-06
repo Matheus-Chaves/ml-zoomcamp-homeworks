@@ -8,6 +8,8 @@ scikit-learn = "==1.5.2"
 flask = "*"
 gunicorn = "*"
 requests = "*"
+pandas = "*"
+xgboost = "*"
 
 [dev-packages]
 ipykernel = "*"
